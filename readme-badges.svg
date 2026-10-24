@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="590" height="34" viewBox="0 0 590 34" role="img" aria-label="React, TypeScript, Vite, Ollama, local model, no cloud API">
+  <g font-family="monospace" font-size="12" font-weight="700" text-anchor="middle">
+    <g transform="translate(0)"><path d="M0 0h70v30H0z" fill="#30362a" stroke="#b0c281" stroke-width="2"/><text x="35" y="20" fill="#eee2c5">React</text></g>
+    <g transform="translate(78)"><path d="M0 0h104v30H0z" fill="#30362a" stroke="#b0c281" stroke-width="2"/><text x="52" y="20" fill="#eee2c5">TypeScript</text></g>
+    <g transform="translate(190)"><path d="M0 0h62v30H0z" fill="#30362a" stroke="#b0c281" stroke-width="2"/><text x="31" y="20" fill="#eee2c5">Vite</text></g>
+    <g transform="translate(260)"><path d="M0 0h82v30H0z" fill="#30362a" stroke="#b0c281" stroke-width="2"/><text x="41" y="20" fill="#eee2c5">Ollama</text></g>
+    <g transform="translate(350)"><path d="M0 0h104v30H0z" fill="#30362a" stroke="#b0c281" stroke-width="2"/><text x="52" y="20" fill="#eee2c5">Local model</text></g>
+    <g transform="translate(462)"><path d="M0 0h128v30H0z" fill="#30362a" stroke="#b0c281" stroke-width="2"/><text x="64" y="20" fill="#b0c281">No cloud API</text></g>
+  </g>
+</svg>
